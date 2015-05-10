@@ -1,12 +1,4 @@
-Feature by Rashmi123
-Gupta
+Feature by Rashmi Gupta
 
-test1 1
-test1 2
 
-master 3
-master 4
-
-t #1
-t #2
 
